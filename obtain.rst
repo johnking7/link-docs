@@ -19,7 +19,7 @@ CPU mining with Geth is very easy. Run the regular Geth command, but add the ``-
 GPU Mining
 ##########
 
-coming soon
+Use `ethminer-genoil <https://github.com/Genoil/cpp-ethereum>`_.
 
 Purchase LINK
 -------------
