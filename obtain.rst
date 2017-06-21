@@ -53,7 +53,10 @@ Ubuntu 15.10 or Newer. OpenCL + CUDA (for NVIDIA cards)
   cmake -DBUNDLE=cudaminer ..
   make -j8
 
-You can then find the executable in the ethminer subfolder
+CD to the ethminer subfolder and run the following command
+.. code::
+
+  ./ethminer -G -F http://localhost:8645
 
 Purchase LINK
 -------------
