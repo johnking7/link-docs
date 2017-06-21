@@ -19,6 +19,9 @@ Properties
 
 BlobStore has the following properties:
 
+* Timestamped
+   The approximate time that every blob is published is recorded on the blockchain.
+
 * World-readable
    Every blob published can be read by anyone. The only way to avoid this would be to encrypt the blob before publishing it.
 
