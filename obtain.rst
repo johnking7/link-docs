@@ -22,7 +22,7 @@ GPU Mining
 Use `ethminer-genoil <https://github.com/Genoil/cpp-ethereum>`_.
 
 Ubuntu 15.10 or Newer. OpenCL only (for AMD cards)
-.. code::
+::
 
   sudo apt-get update
   sudo apt-get -y install software-properties-common
@@ -38,7 +38,7 @@ Ubuntu 15.10 or Newer. OpenCL only (for AMD cards)
   
   
 Ubuntu 15.10 or Newer. OpenCL + CUDA (for NVIDIA cards)
-.. code::
+::
 
   wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-repo-ubuntu1404_7.5-18_amd64.deb
   sudo dpkg -i cuda-repo-ubuntu1404_7.5-18_amd64.deb
@@ -54,7 +54,7 @@ Ubuntu 15.10 or Newer. OpenCL + CUDA (for NVIDIA cards)
   make -j8
 
 CD to the ethminer subfolder and run the following command
-.. code::
+::
 
   ./ethminer -G -F http://localhost:8645
 
