@@ -26,7 +26,7 @@ Ubuntu 15.10 or Newer. OpenCL only (for AMD cards)
 
   sudo apt-get update
   sudo apt-get -y install software-properties-common
-  add-apt-repository -y ppa:ethereum/ethereum
+  sudo add-apt-repository -y ppa:ethereum/ethereum
   sudo apt-get update
   sudo apt-get install git cmake libcryptopp-dev libleveldb-dev libjsoncpp-dev libjsonrpccpp-dev libboost-all-dev libgmp-dev libreadline-dev libcurl4-gnutls-dev ocl-icd-libopencl1 opencl-headers mesa-common-dev libmicrohttpd-dev build-essential -y
   git clone https://github.com/Genoil/cpp-ethereum/
