@@ -4,7 +4,7 @@ Events
 Upcoming
 --------
 
-Kuala Lumpur Blockchain Evening
+`Kuala Lumpur Blockchain Evening <https://www.eventbrite.co.uk/e/kuala-lumpur-blockchain-evening-tickets-35779469356>`_
 ```````````````````````````````
 | Friday, July 14, 19:00 - 22:00
 | Einstein Boardroom
