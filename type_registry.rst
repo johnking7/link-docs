@@ -1,7 +1,7 @@
 Type Registry
 =============
 
-https://github.com/link-blockchain/link-type-registry/blob/1.0.0/src/link_type_registry.sol
+https://github.com/link-blockchain/link-type-registry/blob/ae129b1b7d1f60514cba87be548ed2b18d04980f/src/link_type_registry.sol
 
 Deployment address: ``0xacceace4f1bbca3fed4f819b8f2576484e2afb50``
 
