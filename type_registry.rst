@@ -12,6 +12,6 @@ Every item of content stored on Link has a content type. Examples of potential c
 
 Link has a hierarchical system of content types. There is a `root content type <https://github.com/link-blockchain/link-root-type-schema/tree/0d577c02734376042068ec39431c69034ec35a8a>`_ that all other content types are derived from.
 
-https://github.com/link-blockchain/link-type-registry/blob/1.0.0/src/link_type_registry.sol#L60
+Each content type is identified by an integer, the typeId. The typeId for each content type is issued by the Type Registry smart contract. The typeId of the root content type is 0.
 
-Each content type is identified by an integer, the typeId. The typeId for each content type is issued by the Type Registry smart contract. When creating a new content type, the `addContentType() <https://github.com/link-blockchain/link-type-registry/blob/1.0.0/src/link_type_registry.sol#L60>`_ method must be called. ``parent`` must be the typeId of the content type that the new one is extending. ``uri`` should be a link to an immuntable commit in a repo that is forked or branched from the URI of the parent content type.
+When creating a new content type, the `addContentType() <https://github.com/link-blockchain/link-type-registry/blob/1.0.0/src/link_type_registry.sol#L60>`_ method must be called. ``parent`` must be the typeId of the content type that the new one is extending. ``uri`` should be a link to an immuntable commit in a repo that is forked or branched from the URI of the parent content type.
