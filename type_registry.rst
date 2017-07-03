@@ -1,9 +1,9 @@
 Type Registry
 =============
 
-https://github.com/link-blockchain/link-type-registry/blob/ae129b1b7d1f60514cba87be548ed2b18d04980f/src/link_type_registry.sol
+`Source <https://github.com/link-blockchain/link-type-registry/blob/ae129b1b7d1f60514cba87be548ed2b18d04980f/src/link_type_registry.sol>`_
 
-Deployment address: ``0xacceace4f1bbca3fed4f819b8f2576484e2afb50``
+Deployment address: ``0xb41a413db14f8bbd82e23393688f169e527e88f0``
 
 Solidity 0.4.11 with optimizations.
 
