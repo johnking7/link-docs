@@ -4,7 +4,7 @@
 Issuance
 ########
 
-Project revenue of 55 million LINK (equivalent to 5 years of mining) is pre-allocated into a `smart contract <https://github.com/link-blockchain/link-revenue/blob/master/link_revenue.sol>`_  that will release it over 2000 days at a rate that decreases every 200 days.
+Project revenue of 55 million LINK (equivalent to 5 years of mining) is pre-allocated into the :ref:`revenue` smart contract. It will release it over 2000 days at a rate that decreases every 200 days.
 
 The purpose of the revenue is to provide funds for re-investment into the Link ecosystem and to provide profit for the developer.
 
