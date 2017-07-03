@@ -41,7 +41,7 @@ Table of contents
    configuration.rst
    filter_bubbles.rst
    light_client.rst
-   blobstore.rst
+   smart_contracts.rst
    obtain.rst
    team.rst
    events.rst
