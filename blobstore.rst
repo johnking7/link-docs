@@ -76,6 +76,9 @@ Deployments
 
 All current deployments of BlobStore contracts on Link were compiled with Solidity 0.4.11 with optimizations enabled.
 
+``Git hash: `073805c693d008b3cb258d50aa79473103680580 <https://github.com/link-blockchain/blobstore/tree/073805c693d008b3cb258d50aa79473103680580/src>`_ 12``
+
+
 BlobStoreRegistry contract address: ``0x767f8a42f169038d18416b66f7241bf70fffc329``
 
 BlobStore #0
