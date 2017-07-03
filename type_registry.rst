@@ -10,7 +10,7 @@ Solidity 0.4.11 with optimizations.
  
 Every item of content stored on Link has a content type. Examples of potential content types are tweets, comments, blog posts, media metadata and user profiles.
 
-Link has a hierarchical system of content types. Except for the root content type, every content type has a parent content type that it extends. The schema for the root content type is empty.
+Link has a hierarchical system of content types. There is a `root content type <https://github.com/link-blockchain/link-root-type-schema/tree/0d577c02734376042068ec39431c69034ec35a8a>`_ that all other content types are derived from.
 
 https://github.com/link-blockchain/link-type-registry/blob/1.0.0/src/link_type_registry.sol#L60
 
