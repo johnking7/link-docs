@@ -6,3 +6,5 @@ Revenue
 Deployment address: ``0x97c7f4f8f0bbf384578a9f5754ae73f37ff49ec2``
 
 Solidity 0.4.10 with optimizations.
+
+See :ref:`issuance` for more information.
