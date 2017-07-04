@@ -29,6 +29,8 @@ Useful links
 
 * `Issue tracker <https://github.com/link-blockchain/link-blockchain/issues>`_
 
+* `Logo <https://github.com/link-blockchain/link-logo>`_
+
 Table of contents
 -----------------
 
