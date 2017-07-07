@@ -21,7 +21,7 @@ The cryptocurrency of the Link blockchain is also called Link.
 BlobStore
 =========
 
-The principle smart contract on the Link blockchain is :ref:`blobstore`. It uses `IPFS <https://ipfs.io/>`_ as the underlying storage layer. Anyone can store a `blob <https://en.wikipedia.org/wiki/Binary_large_object>`_ of data and get back a `blobId <http://docs.link-blockchain.org/projects/blobstore/en/latest/blobid.html>`_. This data is publically readable to everyone.
+The principle smart contract on the Link blockchain is :ref:`blobstore`. It uses `IPFS <https://ipfs.io/>`_ as the underlying storage layer. Anyone can store a `blob <https://en.wikipedia.org/wiki/Binary_large_object>`_ of data and get back a :ref:`blobId`. This data is publically readable to everyone.
 
 BlobStore has a rudimentary revisioning system so blobs can be updated while retaining their blobId and revision history.
 
