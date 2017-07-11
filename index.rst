@@ -6,7 +6,7 @@
 Link Blockchain
 ===============
 
-Link is an uncontrolled `linked data <https://en.wikipedia.org/wiki/Linked_data>`_ ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a development platform for interconnected distributed content apps that empower the individual.
+Link is an uncontrolled `linked data <https://en.wikipedia.org/wiki/Linked_data>`_ ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a protocol for interconnected distributed content apps that empower the individual.
 
 The blockchain was activated on Thursday 27th April 2017 09:15:23 AM (UTC).
 
