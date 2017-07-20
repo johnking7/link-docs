@@ -47,6 +47,7 @@ Table of contents
    obtain.rst
    team.rst
    events.rst
+   contact.rst
 
 Indices and tables
 ==================
