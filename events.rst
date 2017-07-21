@@ -4,6 +4,9 @@ Events
 Upcoming
 --------
 
+Previous
+--------
+
 `Kuala Lumpur Blockchain Evening <https://www.eventbrite.co.uk/e/kuala-lumpur-blockchain-evening-tickets-35779469356>`_
 ```````````````````````````````
 | Friday, July 14, 19:00 - 22:00
@@ -12,9 +15,6 @@ Upcoming
 | Level 3A, Glo Damansara
 | No. 699, Jalan Damansara
 | Kuala Lumpur
-
-Previous
---------
 
 `Bangkok Satoshi Square <https://www.meetup.com/Bangkok-Satoshi-Square/events/240386853/>`_
 ````````````````````
