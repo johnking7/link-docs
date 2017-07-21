@@ -4,6 +4,14 @@ Events
 Upcoming
 --------
 
+Dojo Bali Cryptocurrency Mastermind
+| Tuesday, August 1
+| Dojo Bali Coworking Space
+| No. 88 Jalan Batu Mejan
+| Canggu, Echo Beach
+| Kuta Utara, Kabupaten Badung
+| Bali, Indonesia
+
 Previous
 --------
 
