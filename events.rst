@@ -4,7 +4,7 @@ Events
 Upcoming
 --------
 
-`Dojo Bali Cryptocurrency Mastermind <https://www.facebook.com/events/1419072098186442>`_ (`Dojo <http://www.dojobali.org/>`_ members only)
+`Dojo Bali Cryptocurrency Mastermind <http://www.dojobali.org/en/events/view/427288887/cryptocurrency-mastermind>`_ (`Dojo <http://www.dojobali.org/>`_ members only)
 ```````````````````````````````````
 | Tuesday, August 1
 | Dojo Bali Coworking Space
