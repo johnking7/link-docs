@@ -23,6 +23,8 @@ Useful links
 
 * `YouTube <https://www.youtube.com/channel/UCkvRVEWnTPWWYJQqPbYwyiw>`_
 
+* `BitChute <https://www.bitchute.com/channel/link_blockchain/>`_
+
 * `Block explorer <http://blocks.link-blockchain.org/>`_
 
 * `Network stats <http://stats.link-blockchain.org/>`_
