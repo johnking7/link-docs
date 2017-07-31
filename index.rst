@@ -15,11 +15,13 @@ Useful links
 
 * `Blog <https://blog.link-blockchain.org/>`_
 
-* `Twitter feed <https://twitter.com/link_blockchain>`_
+* `Twitter <https://twitter.com/link_blockchain>`_
 
-* `Subreddit <https://www.reddit.com/r/link_blockchain/>`_
+* `Reddit <https://www.reddit.com/r/link_blockchain/>`_
 
-* `Gitter channel <https://gitter.im/link-blockchain/link-blockchain>`_
+* `Gitter <https://gitter.im/link-blockchain/link-blockchain>`_
+
+* `Youtube <https://www.youtube.com/channel/UCkvRVEWnTPWWYJQqPbYwyiw>`_
 
 * `Block explorer <http://blocks.link-blockchain.org/>`_
 
