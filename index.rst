@@ -21,7 +21,7 @@ Useful links
 
 * `Gitter <https://gitter.im/link-blockchain/link-blockchain>`_
 
-* `Youtube <https://www.youtube.com/channel/UCkvRVEWnTPWWYJQqPbYwyiw>`_
+* `YouTube <https://www.youtube.com/channel/UCkvRVEWnTPWWYJQqPbYwyiw>`_
 
 * `Block explorer <http://blocks.link-blockchain.org/>`_
 
