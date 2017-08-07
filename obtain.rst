@@ -62,4 +62,4 @@ Purchase LINK
 -------------
 LINK from the revenue smart contract will be sold on exchanges once they support it. Until then, LINK can be purchased directly.
 
-If you wish to purchase LINK please email purchase@link-blockchain.org. It is currently available at a price of 0.01 USD per LINK. This price is subject to change at any time. Payment can be made via any cryptocurrency.
+If you wish to purchase LINK please email purchase@link-blockchain.org. It is currently available at a price of 0.02 USD per LINK. This price is subject to change at any time. Payment can be made via any cryptocurrency.
