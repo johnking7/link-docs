@@ -19,7 +19,8 @@ CPU mining with Geth is very easy. Run the regular Geth command, but add the ``-
 GPU Mining
 ##########
 
-Use `ethminer-genoil <https://github.com/Genoil/cpp-ethereum>`_.
+Genoil
+``````
 
 Ubuntu 15.10 or Newer. OpenCL only (for AMD cards)
 ::
@@ -57,6 +58,20 @@ CD to the ``ethminer`` subfolder and run the following command
 ::
 
   ./ethminer -G -F http://localhost:8645
+
+Claymore
+````````
+Download from https://github.com/nanopool/Claymore-Dual-Miner/releases
+
+Linux
+::
+
+  ./ethdcrminer64 -epool http://localhost:8645 -allcoins 1
+
+Windows
+::
+
+  EthDcrMiner64.exe -epool http://localhost:8645 -allcoins 1
 
 Purchase LINK
 -------------
