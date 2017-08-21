@@ -18,7 +18,7 @@ Previous
 
 `Dojo Bali Cryptocurrency Mastermind <http://www.dojobali.org/en/events/view/427288887/cryptocurrency-mastermind>`_ (`Dojo <http://www.dojobali.org/>`_ members only)
 ```````````````````````````````````
-| Tuesday, August 1
+| Tuesday, August 1, 19:00 - 21:00
 | Dojo Bali Coworking Space
 | No. 88 Jalan Batu Mejan
 | Canggu, Echo Beach
