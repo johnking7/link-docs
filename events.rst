@@ -4,6 +4,18 @@ Events
 Upcoming
 --------
 
+none
+
+Previous
+--------
+
+`Link Blockchain: The successor to the World Wide Web <https://www.meetup.com/Bitcoin-Saigon-Meetup/events/242460720/>`_
+`````````````````````````
+| Thursday, August 17, 20:00 - 23:00
+| Care Hub Cafe
+| 30 Bà Huyện Thanh Quan
+| Hồ Chí Minh City, Vietnam
+
 `Dojo Bali Cryptocurrency Mastermind <http://www.dojobali.org/en/events/view/427288887/cryptocurrency-mastermind>`_ (`Dojo <http://www.dojobali.org/>`_ members only)
 ```````````````````````````````````
 | Tuesday, August 1
@@ -12,9 +24,6 @@ Upcoming
 | Canggu, Echo Beach
 | Kuta Utara, Kabupaten Badung
 | Bali, Indonesia
-
-Previous
---------
 
 `Kuala Lumpur Blockchain Evening <https://www.eventbrite.co.uk/e/kuala-lumpur-blockchain-evening-tickets-35779469356>`_
 ```````````````````````````````
