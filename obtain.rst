@@ -66,12 +66,14 @@ Download from https://github.com/nanopool/Claymore-Dual-Miner/releases
 Linux
 ::
 
-  ./ethdcrminer64 -epool http://localhost:8645 -allcoins 1
+  ./ethdcrminer64 -epool http://localhost:8645 -allcoins exp
 
 Windows
 ::
 
-  EthDcrMiner64.exe -epool http://localhost:8645 -allcoins 1
+  EthDcrMiner64.exe -epool http://localhost:8645 -allcoins exp
+
+Here is a Claymore on Windows LINK mining tutorial: https://klmoney.wordpress.com/link-blockchain-windows-gpu-mining/
 
 Purchase LINK
 -------------
