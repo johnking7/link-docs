@@ -79,4 +79,4 @@ Purchase LINK
 -------------
 LINK is not yet trading on any exchange.
 
-If you wish to purchase LINK please email purchase@link-blockchain.org. It is currently available at a price of 0.02 USD per LINK. This price is subject to change at any time. Payment can be made via any cryptocurrency.
+If you wish to purchase LINK please email purchase@link-blockchain.org. It is currently available at a price of 0.04 USD per LINK. This price is subject to change at any time. Payment can be made via any cryptocurrency.
