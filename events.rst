@@ -25,7 +25,7 @@ Previous
 | Kuta Utara, Kabupaten Badung
 | Bali, Indonesia
 
-`Kuala Lumpur Blockchain Evening <https://www.eventbrite.co.uk/e/kuala-lumpur-blockchain-evening-tickets-35779469356>`_
+`Kuala Lumpur Blockchain Evening <https://www.eventbrite.co.uk/e/kuala-lumpur-blockchain-evening-tickets-35779469356>`_ - `video <https://www.youtube.com/watch?v=ih1eUUm5duM>`_
 ```````````````````````````````
 | Friday, July 14, 19:00 - 22:00
 | Einstein Boardroom
