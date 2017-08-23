@@ -15,25 +15,25 @@ Issuance rate
 
 .. raw:: html
 
-    <iframe width="700" height="300" src="//embed.chartblocks.com/1.0/?c=5846ab589973d26f213e6049&t=24511bccd8d82d9" frameBorder="0"></iframe>
+    <iframe width="700" height="300" src="https://embed.chartblocks.com/1.0/?c=5846ab589973d26f213e6049&t=24511bccd8d82d9" frameBorder="0"></iframe>
 
 Cumulative issuance
 ###################
 
 .. raw:: html
 
-    <iframe width="700" height="300" src="//embed.chartblocks.com/1.0/?c=583556329973d2de6f22b179&t=9c8a2ec16e7f9ea" frameBorder="0"></iframe>
+    <iframe width="700" height="300" src="https://embed.chartblocks.com/1.0/?c=583556329973d2de6f22b179&t=9c8a2ec16e7f9ea" frameBorder="0"></iframe>
 
 Post-revenue inflation rate
 ###########################
 
 .. raw:: html
     
-    <iframe width="700" height="300" src="//embed.chartblocks.com/1.0/?c=5846bdf89973d267253e6049&t=ac872ee929a41c6" frameBorder="0"></iframe>
+    <iframe width="700" height="300" src="https://embed.chartblocks.com/1.0/?c=5846bdf89973d267253e6049&t=ac872ee929a41c6" frameBorder="0"></iframe>
 
 Revenue live status
 ###################
 
 .. raw:: html
 
-    <iframe width="100%" height="700" src="//139.162.15.124:3001/" frameBorder="0"></iframe>
+    <iframe width="100%" height="700" src="https://link-blockchain.github.io/link-revenue/" frameBorder="0"></iframe>
