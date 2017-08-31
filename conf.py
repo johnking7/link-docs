@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Link Blockchain'
+project = u'LINK Blockchain'
 author = u'Jonathan Brown'
 
 # The version info for the project you're documenting, acts as replacement for
