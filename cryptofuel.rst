@@ -4,7 +4,7 @@
 Cryptofuel
 ##########
 
-Name: Link
+Name: LINK
 
 Code: LINK
 
