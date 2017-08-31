@@ -8,9 +8,9 @@ Deployment address: ``0xb41a413db14f8bbd82e23393688f169e527e88f0``
 Solidity 0.4.11 with optimizations.
 
  
-Every item of content stored on Link has a content type. Examples of potential content types are tweets, comments, blog posts, media metadata and user profiles.
+Every item of content stored on LINK has a content type. Examples of potential content types are tweets, comments, blog posts, media metadata and user profiles.
 
-Link has a hierarchical system of content types. There is a `root content type <https://github.com/link-blockchain/link-root-type-schema/tree/0d577c02734376042068ec39431c69034ec35a8a>`_ that all other content types are derived from.
+LINK has a hierarchical system of content types. There is a `root content type <https://github.com/link-blockchain/link-root-type-schema/tree/0d577c02734376042068ec39431c69034ec35a8a>`_ that all other content types are derived from.
 
 Each content type is identified by an integer, the typeId. The typeId for each content type is issued by the Type Registry smart contract. The typeId of the root content type is 0.
 
