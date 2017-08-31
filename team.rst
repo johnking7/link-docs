@@ -6,9 +6,9 @@ Jonathan Brown - Founder
 --------------------------------------------------------
 
 .. image:: DSCF2528_scaled.JPG
-   :alt: Jonathan Brown, Link founder.
+   :alt: Jonathan Brown, LINK founder.
 
-`Jonathan <http://jonathanpatrick.me/>`_ was a participant in the `Drupal <https://www.drupal.org/>`_ web development community for ten years where he created the blockchain Drupal modules `Coin Tools <https://www.drupal.org/project/cointools>`_ and `Ethereum <https://www.drupal.org/project/ethereum>`_. As he fosters the growth of the Link development community, he endevours to replicate the vibrancy of the Drupal development community.
+`Jonathan <http://jonathanpatrick.me/>`_ was a participant in the `Drupal <https://www.drupal.org/>`_ web development community for ten years where he created the blockchain Drupal modules `Coin Tools <https://www.drupal.org/project/cointools>`_ and `Ethereum <https://www.drupal.org/project/ethereum>`_. As he fosters the growth of the LINK development community, he endevours to replicate the vibrancy of the Drupal development community.
 
 James Drummond - Dapp developer
 -------------------------------
