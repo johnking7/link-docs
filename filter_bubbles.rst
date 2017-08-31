@@ -14,4 +14,4 @@ On Medium content creators are sometimes `ordered <https://medium.com/@nuckable/
 
 Each of these communities is siloed from each other. They control the filter bubble within their platform.
 
-Link is fully programmable at every level. Anyone can take existing content on the system and develop new ways to select which content each user should see, or even utilize data from another filter bubble, for example analysing existing votes in a new way.
+LINK is fully programmable at every level. Anyone can take existing content on the system and develop new ways to select which content each user should see, or even utilize data from another filter bubble, for example analysing existing votes in a new way.
