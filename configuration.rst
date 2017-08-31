@@ -20,7 +20,7 @@ RPC TLS Port: 8647
 
     git clone https://github.com/link-blockchain/link-blockchain.git
 
-Link Blockchain can be synchronized with either Geth or Parity:
+LINK Blockchain can be synchronized with either Geth or Parity:
 
 Geth
 ----
