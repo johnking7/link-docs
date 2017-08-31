@@ -1,17 +1,19 @@
-.. Link Blockchain documentation master file, created by
+.. LINK Blockchain documentation master file, created by
    sphinx-quickstart on Sun Oct  2 16:38:26 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Link Blockchain
+LINK Blockchain
 ===============
 
-Link is an uncontrolled `linked data <https://en.wikipedia.org/wiki/Linked_data>`_ ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a protocol for interconnected distributed content apps that empower the individual.
+LINK is an uncontrolled `linked data <https://en.wikipedia.org/wiki/Linked_data>`_ ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a protocol for interconnected distributed content apps that empower the individual.
 
 The blockchain was activated on Thursday 27th April 2017 09:15:23 AM (UTC).
 
 Useful links
 ------------
+
+* `Homepage <https://www.link-blockchain.org/>`_
 
 * `Blog <https://blog.link-blockchain.org/>`_
 
