@@ -9,7 +9,7 @@ none
 Previous
 --------
 
-`Link Blockchain: The successor to the World Wide Web <https://www.meetup.com/Bitcoin-Saigon-Meetup/events/242460720/>`_
+`LINK Blockchain: The successor to the World Wide Web <https://www.meetup.com/Bitcoin-Saigon-Meetup/events/242460720/>`_
 `````````````````````````
 | Thursday, August 17, 20:00 - 23:00
 | Care Hub Cafe
