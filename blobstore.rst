@@ -3,7 +3,7 @@
 BlobStore
 =========
 
-BlobStore is the principle smart contract system for Link. All base content is registered with BlobStore. `IPFS <https://ipfs.io/>`_ is used as the storage layer.
+BlobStore is the principle smart contract system for LINK. All base content is registered with BlobStore. `IPFS <https://ipfs.io/>`_ is used as the storage layer.
 
 Useful links
 ------------
