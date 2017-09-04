@@ -69,7 +69,7 @@ Edit app.json::
            "CONTACT_DETAILS" : "",
     -      "WS_SERVER"       : "wss://rpc.ethstats.net",
     -      "WS_SECRET"       : "see http://forum.ethereum.org/discussion/2112/how-to-add-yourself-to-the-stats-dashboard-its-not-automatic",
-    +      "WS_SERVER"       : "ws://stats.link-blockchain.org:3000",
+    +      "WS_SERVER"       : "wss://stats.link-blockchain.org",
     +      "WS_SECRET"       : "welcometothelinkedworld",
            "VERBOSITY"       : 2
          }
