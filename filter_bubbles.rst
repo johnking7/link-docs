@@ -15,3 +15,5 @@ On Medium content creators are sometimes `ordered <https://medium.com/@nuckable/
 Each of these communities is siloed from each other. They control the filter bubble within their platform.
 
 LINK is fully programmable at every level. Anyone can take existing content on the system and develop new ways to select which content each user should see, or even utilize data from another filter bubble, for example analysing existing votes in a new way.
+
+If an application on LINK decides to censor content, the difference with that and, for example, Twitter, is that the content is still available. Another application could access it and choose to include it. On Twitter the platform is closed, the data private, and the content no longer accessible publicly.
